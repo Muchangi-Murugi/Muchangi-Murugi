@@ -39,8 +39,7 @@
 ### Back-end
                                                                     
 <img src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v2.png"/>                                                                                
-https://activity-graph.herokuapp.com/graph?username=#your-username&theme=dracula&hide_border=true)
+<img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v2.png"/>                                                                               
   
 ## My Experiences
 
@@ -66,4 +65,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://activity-graph.herokuapp.com/graph?username=#your-username&theme=dracula&hide_border=true) 
 -->
