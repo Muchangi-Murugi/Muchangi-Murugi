@@ -8,7 +8,7 @@
       
       🌱 I am currently learning **Javascript** and also interested in **Java and C++**.
 
-      🎯 My Goal is to learn front-end development andmContribute to as many **open source project** as possible.
+      🎯 My Goal is to learn front-end development and Contribute to as many **open source project** as possible.
       
       ✨ I love to design my own projects and discover different types of **content** from other developers.
       
