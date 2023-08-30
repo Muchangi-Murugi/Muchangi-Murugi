@@ -46,12 +46,7 @@
 - Worked at TradeMark Hotels for 3 Months as IT support.
 - Participated in a 2-months AI course by [SUN * Japan]                                                                           
 
-                                                                              
-## Support Me!
-
-<a href="" target="_blank"><img height='35' style='border:0px;height:46px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Buy Me A Coffee' /> 
-<a href='' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />                                                                            
-                                                                 
+                                                            
 <!--
 **Muchangi-Murugi/Muchangi-Murugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
